@@ -1,4 +1,4 @@
-##1주차 과제 
+## 1주차 과제 
 
 1.	Github 계정 생성 → GitHub 개정 생성 및 레파지토리 생성 완료
 https://github.com/MongDDangmania/Comento-SW-Boot-Camp
